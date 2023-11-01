@@ -1,0 +1,47 @@
+INFO 2023-11-01 11:31:27 AM File format conversion: Started
+INFO 2023-11-01 11:31:27 AM Number of records processed for part-00000 in categories is 58
+INFO 2023-11-01 11:31:27 AM Number of records processed for part-00000 in customers is 12435
+INFO 2023-11-01 11:31:27 AM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 11:31:27 AM Number of records processed for part-00000 in orders is 68883
+INFO 2023-11-01 11:31:27 AM Number of records processed for part-00000 in order_items is 172198
+INFO 2023-11-01 11:31:27 AM Number of records processed for part-00000 in products is 1345
+INFO 2023-11-01 11:31:27 AM File format conversion: Successful
+INFO 2023-11-01 11:54:01 AM File format conversion: Started
+INFO 2023-11-01 11:54:01 AM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 11:54:01 AM File format conversion: Successful
+INFO 2023-11-01 11:58:42 AM File format conversion: Started
+INFO 2023-11-01 11:58:42 AM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 11:58:42 AM File format conversion: Successful
+INFO 2023-11-01 12:00:26 PM File format conversion: Started
+INFO 2023-11-01 12:00:26 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:00:26 PM File format conversion: Successful
+INFO 2023-11-01 12:01:21 PM File format conversion: Started
+INFO 2023-11-01 12:01:21 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:01:21 PM File format conversion: Successful
+INFO 2023-11-01 12:04:48 PM File format conversion: Started
+INFO 2023-11-01 12:04:48 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:04:48 PM File format conversion: Successful
+INFO 2023-11-01 12:05:14 PM File format conversion: Started
+ERROR 2023-11-01 12:05:14 PM Schema not found for dummy
+INFO 2023-11-01 12:05:14 PM Number of records processed for part-00000 in dummy is 5
+INFO 2023-11-01 12:05:14 PM File format conversion: Successful
+INFO 2023-11-01 12:05:26 PM File format conversion: Started
+INFO 2023-11-01 12:05:26 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:05:26 PM File format conversion: Successful
+INFO 2023-11-01 12:05:59 PM File format conversion: Started
+ERROR 2023-11-01 12:05:59 PM Schema not found for dummy
+INFO 2023-11-01 12:05:59 PM Number of records processed for part-00000 in dummy is 5
+INFO 2023-11-01 12:05:59 PM File format conversion: Successful
+INFO 2023-11-01 12:06:13 PM File format conversion: Started
+INFO 2023-11-01 12:06:13 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:06:13 PM File format conversion: Successful
+INFO 2023-11-01 12:16:00 PM File format conversion: Started
+INFO 2023-11-01 12:16:00 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:16:00 PM File format conversion: Successful
+INFO 2023-11-01 12:16:21 PM File format conversion: Started
+ERROR 2023-11-01 12:16:21 PM Schema not found for dummy
+ERROR 2023-11-01 12:16:21 PM File format conversion for dummy is not successful
+INFO 2023-11-01 12:16:21 PM File format conversion: Successful
+INFO 2023-11-01 12:16:54 PM File format conversion: Started
+INFO 2023-11-01 12:16:54 PM Number of records processed for part-00000 in departments is 6
+INFO 2023-11-01 12:16:54 PM File format conversion: Successful
